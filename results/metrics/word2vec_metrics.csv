@@ -1,0 +1,2 @@
+Model,Training_Samples,Testing_Samples,Embedding_Dimension,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Word2Vec + Logistic Regression,127656,31915,100,0.9434121886260379,0.8075601374570447,0.5377574370709383,0.6456043956043956,0.9477122391869428

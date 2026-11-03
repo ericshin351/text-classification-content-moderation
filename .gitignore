@@ -24,3 +24,7 @@ data/processed/*
 # Editor settings
 .vscode/
 .idea/
+
+# Trained model checkpoints
+results/*.pt
+results/*.pth
