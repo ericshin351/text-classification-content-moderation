@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
+
+# Data files
+data/raw/*
+data/processed/*
+
+# Environment variables
+.env
+
+# Editor settings
+.vscode/
+.idea/
